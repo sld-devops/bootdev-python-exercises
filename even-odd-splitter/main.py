@@ -5,8 +5,8 @@ def is_even(number):
 
 def split_even_odd(numbers):
     """
-    Split a list of integers into two lists (evens first, odds second),
-    preserving the original order within each group.
+    Split a list of integers into two lists (evens first, odds second)
+    Preserving the original order within each group.
     """
     even_numbers = []
     odd_numbers = []
