@@ -1,7 +1,7 @@
 Bugs caught along the way:
-1. Checking `team not in plays` instead of `team not in teams_total_pts`
-2. `return` was inside the loop — exited too early ()
-3. `=+` instead of `+=`
+1. checking `team not in plays` instead of `team not in teams_total_pts` - for looks in wrong place
+2. `return` was inside the loop — exited too early
+3. `=+` instead of `+=` - typo error
 
 Concepts learned:
 - Why you unpack both `team, score` from each tuple
