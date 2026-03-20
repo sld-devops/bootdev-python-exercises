@@ -1,0 +1,10 @@
+Bugs caught along the way:
+1. Checking `team not in plays` instead of `team not in teams_total_pts`
+2. `return` was inside the loop — exited too early ()
+3. `=+` instead of `+=`
+
+Concepts learned:
+- Why you unpack both `team, score` from each tuple
+- How `if team not in dict` initializes a key only once
+- `+=` adds to existing value, `=+` just assigns
+- `return` must be outside the loop to get the full result
