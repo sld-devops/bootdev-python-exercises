@@ -1,0 +1,9 @@
+Python:
+- Looping through a list of dictionaries and accessing values with ["key"]
+- Filtering items by checking dictionary fields like ["completed"] and ["difficulty"]
+- Condensing a for loop + if condition + append into a single line list comprehension
+
+Git:
+- git push can be rejected if the remote has changes you don't have locally
+- git pull fetches and merges those remote changes
+- Git uses a MERGE_MSG file to record the merge commit message
