@@ -8,8 +8,7 @@ This repo isn't just the solutions — it's a record of my learning process. Eac
 
 - Each challenge has its own folder with a `main.py` that includes the working solution and documented obstacles
 - Earlier challenges are just solutions with basic comments — the documentation gets better as the repo goes on.
-- Some challenges include a `takeaways.txt` with notes on what I misunderstood and how I fixed it.
-- Some challenges include a `main_test.py` with the actual Boot.dev test cases so you can run the script locally.
+- Later challenges include a `takeaways.txt` with notes on what I misunderstood and how I fixed it, and a `main_test.py` with the actual Boot.dev test cases so you can run the script locally.
 
 ## How to run
 
